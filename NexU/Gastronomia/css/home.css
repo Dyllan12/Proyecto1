@@ -1,0 +1,29 @@
+.logo-img{
+  width: 10%;
+}
+
+img{
+  max-height: 129px;
+}
+h2{
+  text-align: left;
+}
+ #pasta{
+   width: 300px;
+   max-height: 129px;
+ }
+
+.personas{
+  text-align: left;
+}
+.bloque-chat{
+margin-right: : 150%;
+}
+.chip{
+  height: 70%;
+  width: 10%;
+}
+#jugo{
+  width: 100%;
+  height: 250%;
+}
